@@ -225,6 +225,10 @@ body {
     #masthead {
         width: 100%;
       }
+    .work {
+      width: 100%;
+      height: auto;
+      }
     }
 
   @media only screen and (max-width: 640px) {
@@ -240,5 +244,10 @@ body {
         width: 100%;
         text-align: center;
         float: left;
+    }
+
+    .work {
+      width: 100%;
+      height: auto;
     }
   }
