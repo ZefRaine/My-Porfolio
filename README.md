@@ -1,5 +1,5 @@
 # My Portfolio
-https://zefraine.github.io/My-Portfolio/.
+https://zefraine.github.io/My-Porfolio/.
 
 07/09/2019: added Trivia Game to portfolio
 
