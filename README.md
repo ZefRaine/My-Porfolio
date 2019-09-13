@@ -6,3 +6,5 @@ https://zefraine.github.io/My-Porfolio/.
 07/14/2019: added Giphy API search to portfolio
 
 09/09/2019: added Sip to portfolio
+
+09/13/2019: added LIRI to portfolio
