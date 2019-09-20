@@ -8,3 +8,5 @@ https://zefraine.github.io/My-Porfolio/.
 09/09/2019: added Sip to portfolio
 
 09/13/2019: added LIRI to portfolio
+
+09/19/2019 : Adding Bamazon (WIP)
