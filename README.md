@@ -9,4 +9,6 @@ https://zefraine.github.io/My-Porfolio/.
 
 09/13/2019: added LIRI to portfolio
 
-09/19/2019 : Adding Bamazon (WIP)
+09/19/2019 : adding Bamazon (WIP)
+
+09/19/2019 : added PeopleUnited
