@@ -8,8 +8,11 @@ body {
   body, html {
   height: 100%;
 }
-
+a {
+  color: #dddddd;
+}
   * {
+    text-decoration: none;
     box-sizing: border-box;
   }
   
@@ -149,8 +152,9 @@ body {
     line-height: 30px;
     color: #ffffff;
     text-align: center;
-    background: #4aaaa5;
+    background: #666666;
     border-bottom: 0;
+    opacity: .9;
   }
   
 
