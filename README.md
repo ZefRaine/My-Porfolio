@@ -12,3 +12,5 @@ https://zefraine.github.io/My-Porfolio/.
 09/19/2019 : adding Bamazon (WIP)
 
 09/19/2019 : added PeopleUnited
+
+10/07/2019 : Update CSS with free template
